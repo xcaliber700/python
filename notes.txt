@@ -1,0 +1,97 @@
+1. "{0.2f}".format(value)
+2. use TAB to write inside ifor loops
+
+
+/////predefined///////
+
+log(x)
+round(x)
+pow(x,y)
+modf(x)
+fabs(x)
+exp(x)
+cmp(x,y)
+ceil(x)
+floor(x)
+log10(x)
+sqrt(x)
+max(x1,x2,x3....)
+min(x1,x2,x3......)
+
+///////random no. funct.///////
+
+choice(seq)
+randrage([start,stop,step])
+random()
+ceed([x])
+shuffle(lsp)
+uniform(x,y)
+
+//////trignometric///////
+
+acos(x)
+asin(x)
+atan(x)
+atan2(y,x)
+hypot(x,y)
+sin(x)
+tan(x)
+degrees(x)
+radion(x)
+
+//////to call main funt///////
+if __name__=="__main__"
+main()
+
+/////to print in one line/////
+print(i,end="\t")
+
+////
+import sys
+x=int(sys.argv[0,1,2....])
+print(sys.argv[0])
+python quick.py 23 45
+i.e it will print quick.py
+
+////LIST////
+.append()
+.count()
+l3=l1+l2
+.remove()
+.index()
+.pop()
+.insert(i,e)
+.sort()
+.reverse
+
+a=[d,f,r,z]
+b=list(a)
+
+x=[x**2 for x in range(1,10)]
+
+i=['c','h','i','t','k','a','r','a']
+i=''.join(i
+
+//////file/////
+
+f=open("filename.txt","r")
+print(f.read())
+
+f.read()
+f.write()
+f.close()
+f.readlines()
+f.writelines()
+f.close()
+f.name
+f.mode
+f.seek()
+f.tell()
+
+
+
+
+
+
+
+
